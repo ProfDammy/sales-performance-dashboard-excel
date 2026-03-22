@@ -65,12 +65,15 @@ These datasets are connected using Power Pivot relationships to enable advanced 
 
 * dashboard/
 
-  * John_Store_Sales_Performance_Dashboard.xlsx
   * dashboard.png
 
 ## Outcome
 
 The dashboard transforms raw sales data into an interactive analytical tool that supports data-driven decision making.
+
+## Dashboard Preview
+
+![Sales Dashboard](dashboard/John_Stores_Dashboard.png)
 
 ## Author
 
