@@ -73,7 +73,7 @@ The dashboard transforms raw sales data into an interactive analytical tool that
 
 ## Dashboard Preview
 
-![Sales Dashboard](dashboard/John_Stores_Dashboard.png)
+![Sales Dashboard](dashboard/John_Store_Sales_Dashboard.png)
 
 ## Author
 
